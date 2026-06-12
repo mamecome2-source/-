@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 시험지 분석기",
+  "description": "시험지 사진을 업로드하면 AI가 자동으로 채점하고 문제별 정오답, 취약 개념 분석 및 맞춤 피드백을 제공해주는 인공지능 시험 분석기입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
